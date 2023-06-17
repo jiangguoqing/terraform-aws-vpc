@@ -1,4 +1,4 @@
-#  VPC Terraform module
+#  VPC Terraform module test
 
 Terraform module which creates VPC resources on AWS.
 
